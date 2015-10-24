@@ -1,0 +1,42 @@
+<resources>
+
+    <!-- Misc -->
+    <string name="app_name">Time Table</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Activity Titles -->
+    <string name="title_activity_add_day">New Day</string>
+
+    <!-- Main Activity -->
+    <string-array name="days">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+
+    <!-- Add Lesson Activity -->
+
+    <string-array name="spinner_lesson_time_start">
+        <item>7:00</item>
+    </string-array>
+
+    <string-array name="spinner_lesson_time_end">
+        <item>8:00</item>
+    </string-array>
+
+    <string name="hint_subject">Subject</string>
+    <string name="hint_teacher">Teacher (optional)</string>
+    <string name="hint_room">Room (optional)</string>
+
+    <string name="title_lesson_start">Lesson Start Time</string>
+    <string name="title_lesson_end">Lesson End Time</string>
+
+    <string name="btn_text_cancel">Cancel</string>
+    <string name="btn_text_done">Done</string>
+    <string name="btn_text_add_lesson">+ Add Lesson</string>
+</resources>
